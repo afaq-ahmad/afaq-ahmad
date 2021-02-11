@@ -1,10 +1,10 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanariaz154r&style=flat&color=blueviolet" alt=sanariaz/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afaq-ahmadr&style=flat&color=blueviolet" alt=afaq-ahmad/> </p>
 
 
- ###  Hi there :raising_hand: 
+ ###  Hi there :raising_hand:
 <!--
-**sanariaz154/sanariaz154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**afaq-ahmad/afaq-ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,28 +22,23 @@ Here are some ideas to get you started:
 
 <!-- ## Ph.D. Computer Science, School of Electrical Engineering & Computer Science (SEECS), NUST, Pakistan. (2019 - 2022) -->
 
-This is Sana Riaz! self-motivated and self-taught not so famous (yet) Machine Learning Engineer. Striving to become great at her field! Wants bigger things in life. Making the most out of the present and thinks she can expect an exciting future. Can be found playing games, coding, sketching/drawing, learning something new, or watching anime. 
-
-My current research interests focus on Computer Vision, Deep Learning, one/few shot learning, learning with small-data and psychology.
+I’m a highly motivated Data Scientist/computer vision Engineer with over two years of research and development experience and currently working on building AI and computer vision technologies that have impact on the "real world". I have worked on Multiple Projects like Document Digitalization, Surveillance System and text analytics. Moreover
+I have also experience with edge computing and solution deployment on hardware accelerators like Jetson and Corel boards. I have done my Master in Robotics and Intelligent machines and bachelor in Electrical Engineering. Other than my professional time spending, I like Travelling, Gardening and Gaming.
 
 
 * 💬 Feel free to ask me about Deep Learning, Python, Tensorflow / Keras, Linux, Machine Learning, Php, NLP (Bert, Albert and feedback based learning mechanisms).
 * 📖 Learning about Machine Learning, Computer Vision and Psychology
-* ⚡ You can checkout my sketches here https://sanariaz154.crevado.com/
-<!--
-![Sana's github stats](https://github-readme-stats.vercel.app/api?username=sanariaz154&show_icons=true&hide_border=true)  -->
+![Afaq's github stats](https://github-readme-stats.vercel.app/api?username=afaq-ahmad&show_icons=true&hide_border=true)  -->
 
  
 #### 📫 How to reach me:
 
-<a href="mailto:sanariaz154@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
+<a href="mailto:afaq.ahmad100@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/sana-riaz-074895137/" target="_blank" rel="nofollow noopener noreferrer">
+<a href="https://www.linkedin.com/in/afaqahmadalvi/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
 </a>
-<a href="https://twitter.com/sanariaz154" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
+
 
 
