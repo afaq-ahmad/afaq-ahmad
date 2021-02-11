@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afaq-ahmadr&style=flat&color=blueviolet" alt=afaq-ahmad/> </p>
 
 
- ###  Hi there :raising_hand:
+ ###  Hi there :earth_asia:
 <!--
 **afaq-ahmad/afaq-ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
