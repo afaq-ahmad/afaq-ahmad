@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <!-- # Sana Riaz [![HitCount](http://hits.dwyl.com/sanariaz154/sanariaz154.svg)](http://hits.dwyl.com/sanariaz154/sanariaz154) -->
+ <!-- # Sana Riaz [![HitCount](http://hits.dwyl.com/afaq-ahmad/afaq-ahmad.svg)](http://hits.dwyl.com/afaq-ahmad/afaq-ahmad) -->
 
 <!-- ## Ph.D. Computer Science, School of Electrical Engineering & Computer Science (SEECS), NUST, Pakistan. (2019 - 2022) -->
 
